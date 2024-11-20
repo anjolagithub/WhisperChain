@@ -1,7 +1,3 @@
-Here's a concise README for your project, **WhisperChain**, that you can use on GitHub:
-
----
-
 # WhisperChain
 
 WhisperChain is a decentralized, private messaging app built on the blockchain. It ensures secure, peer-to-peer communication, offering encrypted messages, EIP-712 signature-based authentication, and nonce protection to prevent replay attacks. WhisperChain leverages blockchain technology to provide immutable, transparent, and tamper-proof messaging, giving users full control over their data and communications.
